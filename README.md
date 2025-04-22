@@ -29,4 +29,5 @@ Pode ter performance inferior em consultas complexas
 ✅ Ideal Para
 Consultas simples, dinâmicas e com pouco código
 
-
+Para testar, utilize o Swagger
+http://localhost:8080/swagger-ui/index.html#/
